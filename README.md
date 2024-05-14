@@ -6,14 +6,17 @@ Aspiring Data Analyst / Data Administrator / Programmer
 
 Welcome to my Data Analysis Portfolio! This repository showcases my skills and projects as a data analyst proficient in R, Tableau, Power BI, Python Pandas, Excel, and SQL. I’m passionate about turning raw data into actionable insights. 
 
-I am from India, moved to Singapore then moved to London in 2012. I have completed my Master of Computer Application in 2008 from IGNOU, India with Distinction grade. Despite of being away from IT industry my passion for analysis using the concept of SQL and experience of helping an accountant and playing around numbers keeps motivating me to learn new things. And that led me into enrolling onto a Data Analysis bootcamp with Just It where I have acquired new skill like python, Tableau, R, power bi, azure and upskill my knowledge of SQL and excel.
+* Data Visualization: Tableau, Power BI <br>
+* Programming: Python (Pandas), R <br>
+* Database Management: MySQL <br>
+* Cloud Services: Microsoft Azure <br>
+* Spreadsheet Analysis: Advanced Excel techniques <br>
 
 I have worked with Swan Contractors Ltd. as an Operations Manager/Bookkeeper in London for 5+years in construction industry. I have also worked as a .net Software programmer in India and Singapore for 3+years where I used to work with vb.net, asp.net, sql, html, access etc. 
 
-I believe experience of working in construction and IT industry has enhanced my organisational, communication, administrative and working under pressure skills. Apart from this I would like to keep myself engage with music, movies, colours, and yoga. 
-
 I would like to start my journey of Data with hybrid Junior Data Analyst and also, I am open for apprenticeship.
 
+*      Master of Computer Application
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [deepaj\_shah@yahoo.com](mailto:deepaj_shah@yahoo.com)
 * 🧠  I'm learning DP-900
