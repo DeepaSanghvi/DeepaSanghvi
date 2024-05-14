@@ -14,9 +14,8 @@ Welcome to my Data Analysis Portfolio! This repository showcases my skills and p
 
 I have worked with Swan Contractors Ltd. as an Operations Manager/Bookkeeper in London for 5+years in construction industry. I have also worked as a .net Software programmer in India and Singapore for 3+years where I used to work with vb.net, asp.net, sql, html, access etc. 
 
-I would like to start my journey of Data with hybrid Junior Data Analyst and also, I am open for apprenticeship.
+I am open for apprenticeship as well as hybrid Junior/Entry level Data Analyst
 
-*      Master of Computer Application
 * 🌍  I'm based in London, UK
 * ✉️  You can contact me at [deepaj\_shah@yahoo.com](mailto:deepaj_shah@yahoo.com)
 * 🧠  I'm learning DP-900
