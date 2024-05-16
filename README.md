@@ -1,10 +1,11 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepa Sangvhi
 =====================================================================================================================================
 
 Aspiring Data Analyst / Data Administrator / Programmer
 --------------------------------------------------------
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and projects as a data analyst proficient in R, Tableau, Power BI, Python Pandas, Excel, and SQL. I’m passionate about turning raw data into actionable insights. 
+Welcome to my Data Analysis Portfolio! This repository showcases my skills and projects as a data analyst proficient in Tableau, Power BI, Python Pandas, Excel, and SQL. I’m passionate about turning raw data into actionable insights. 
 
 * Data Visualization: Tableau, Power BI <br>
 * Programming: Python (Pandas), R <br>
