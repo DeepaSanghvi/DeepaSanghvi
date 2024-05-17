@@ -5,13 +5,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Analyst / Data Administrator / Programmer
 --------------------------------------------------------
 
-Welcome to my Data Analysis Portfolio! This repository showcases my skills and projects as a data analyst proficient in Tableau, Power BI, Python Pandas, Excel, and SQL. I’m passionate about turning raw data into actionable insights. 
-
-* Data Visualization: Tableau, Power BI <br>
-* Programming: Python (Pandas), R <br>
-* Database Management: MySQL <br>
-* Cloud Services: Microsoft Azure <br>
-* Spreadsheet Analysis: Advanced Excel techniques <br>
+Welcome to my Data Analysis Portfolio! This repository showcases my skills and projects as a data analyst proficient in Tableau, Power BI, Python Pandas, Excel, and SQL. I’m passionate about turning raw data into actionable insights. <br><br>
+<b>
+Technical Skills:<br>
+•	Tools and Database: Ms Office, Microsoft Outlook, SQL Server/My SQL, Microsoft Access<br>
+• Data Visualization: Tableau, Power BI<br>
+•	Languages: Python, .Net 2005, VB 6.0, HTML, Java Script<br>
+•	Accounting Software: Sage 50, Xero, QuickBooks <br>
+•	Database Management, Data Manipulation, Data Analysis<br>
+• Spreadsheet Analysis: Advanced Excel techniques <br>
+</b>
 
 I have worked with Swan Contractors Ltd. as an Operations Manager/Bookkeeper in London for 5+years in construction industry. I have also worked as a .net Software programmer in India and Singapore for 3+years where I used to work with vb.net, asp.net, sql, html, access etc. 
 
